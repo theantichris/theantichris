@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Christopher 👋
 
-<!--
-**theantichris/theantichris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software development lead in Knoxville, TN. I have over 16 years of experience creating large SaaS and internal products for various industries.
 
-Here are some ideas to get you started:
+Most recently, I lead an incredible team that went from knowing nothing about blockchain to launching a [cryptocurrency exchange](https://amplifyexchange.com) in less than a year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [a static site generator in Go](https://github.com/theantichris/site-generator)
+- 🌱 I’m currently learning Elixir
+- 👯 I’m looking to collaborate on anything interesting and challenging
+- 💬 Ask me about my motorcycle :D
+- 📫 How to reach me: chris@theantichris.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my middle name is misspelled on purpose
