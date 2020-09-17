@@ -1,10 +1,10 @@
-### Hi there, I'm Christopher 👋
+# Hi there, I'm Christopher 👋
 
 I'm a the Director of Software Engineering at [Art of Education University](https://theartofeducation.edu/). I have almost 20 years of experience creating large SaaS and internal products for various industries.
 
-- 🔭 I’m currently working on [a static site generator in Go](https://github.com/theantichris/site-generator)
+- 🔭 I’m currently working on [URL shortener](https://github.com/theantichris/url-shortener)
 - 🌱 I’m currently learning Elixir
-- 👯 I’m looking to collaborate on anything interesting and challenging
+- 👯 I’m always looking to meet and chat on the finer points of software development and team building
 - 💬 Ask me about my motorcycle :D
 - 📫 How to reach me: chris@theantichris.com/christopherlamm@theartofeducation.edu
 - 😄 Pronouns: he/him
