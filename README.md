@@ -6,6 +6,6 @@ I'm a the Director of Software Engineering at [Art of Education University](http
 - 🌱 I’m currently learning Elixir
 - 👯 I’m always looking to meet and chat on the finer points of software development and team building
 - 💬 Ask me about my motorcycle :D
-- 📫 How to reach me: chris@theantichris.com/christopherlamm@theartofeducation.edu
+- 📫 How to reach me: chris@theantichris.com / christopherlamm@theartofeducation.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my middle name is misspelled on purpose
