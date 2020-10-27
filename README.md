@@ -2,7 +2,7 @@
 
 I'm a the Director of Software Engineering at [Art of Education University](https://theartofeducation.edu/). I have almost 20 years of experience creating large SaaS and internal products for various industries.
 
-- 🔭 I’m currently working on [URL shortener](https://github.com/theantichris/url-shortener)
+- 🔭 I’m currently working on the [next-generation of EdTech](https://github.com/theartofeducation)
 - 🌱 I’m currently learning Elixir
 - 👯 I’m always looking to meet and chat on the finer points of software development and team building
 - 💬 Ask me about my motorcycle :D
