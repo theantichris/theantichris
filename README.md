@@ -10,7 +10,7 @@ I have 30+ years experience working in software both professionally and as a hob
 
 ## Personal Life
 
-I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love to read, swim, be in nature, play video games, and ride my motorcycle. I don't live leaving my house.
+I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love to read, swim, be in nature, play video games, and ride my motorcycle. I don't love leaving my house.
 
 ## Tech & Tools
 
@@ -21,5 +21,3 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theantichris&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=theantichris&theme=tokyonight&hide_border=true)
