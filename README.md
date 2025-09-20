@@ -10,7 +10,7 @@ I have 30+ years experience working in software both professionally and as a hob
 
 ## Tech & Tools
 
-- Languages: Bash, PowerShell,Go, JavaScript, Markdown, Python
+- Languages: Bash, PowerShell, Go, JavaScript, Markdown, Python
 - Utilities: bat, nano, zsh, Warp, Visual Studio Code, nb, Git, chezmoi
 - Automation: GitHub Actions, custom scripts
 
