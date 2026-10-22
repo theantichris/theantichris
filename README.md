@@ -35,4 +35,4 @@ Try a tool, fork something to fit your workflow, or open an issue or PR with a c
 
 If something is useful, give it a star so others can find it. Follow along for tools, terminal experiments, and thoughts on engineering leadership.
 
-Based in Knoxville, Tennessee. Husband, dad, reader, motorcycle rider, and enthusiastic homebody. Pretty ok guy.
+Based in Knoxville, Tennessee. Husband, dad, reader, biker, and enthusiastic homebody. Pretty ok guy.
