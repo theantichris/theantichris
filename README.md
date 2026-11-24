@@ -24,7 +24,7 @@ My [Remote Manager Playbook](https://github.com/theantichris/remote-manager-play
 | --- | --- |
 | [Ghost](https://github.com/theantichris/ghost) | A local-first AI companion in Go, powered by Ollama. Being rebuilt as a terminal cyberdeck. |
 | [Granola CLI](https://github.com/theantichris/granola) | Export Granola notes and transcripts to local files for backup, migration, and offline access. |
-| [Dotfiles](https://github.com/theantichris/dotfiles) | My Linux environment, chezmoi configuration, and a shared cyberpunk palette for life in the terminal. |
+| [CyberdeckOS](https://github.com/theantichris/cyberdeckos) | My Linux environment, desktop shell, chezmoi configuration, and a shared cyberpunk palette for life in the terminal. |
 | [Remote Manager Playbook](https://github.com/theantichris/remote-manager-playbook) | How I lead distributed teams: shared context, honest feedback, sustainable work, and growth. |
 
 Mostly Go, Linux, shell scripts, and Markdown outside work. Sometimes a [cyberpunk roguelike](https://github.com/theantichris/sprawlrunner), because not everything needs a business case.
